@@ -1,0 +1,4 @@
+Matchup,Average Moves per Game,Avg Nodes Expanded (Minimax),Avg Search Depth (Minimax),Avg Time per Move - Agent 1 (s),Avg Time per Move - Agent 2 (s),Avg Memory Usage (MB),Avg Branching Factor (Minimax),Avg Heuristic Delta (Minimax)
+Minimax vs ML,7.0,86.0,3.0,0.007,0.0,107.355,7.0,99880.0
+Random vs Smart,19.256,N/A,N/A,0.0,0.0,171.96,N/A,N/A
+Smart vs Minimax,18.26,78.842,3.0,0.0,0.01,151.784,6.20278,104989.0
