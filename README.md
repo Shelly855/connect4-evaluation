@@ -6,6 +6,17 @@ It does **not run games or simulations itself** - it uses the results already sa
 
 ---
 
+## Table of Contents
+
+- [Connect 4 – Agent Performance Evaluation (Visualisation)](#connect-4--agent-performance-evaluation-visualisation)
+- [What It Does](#what-it-does)
+- [Files](#files)
+- [Notes](#notes)
+- [Optional Setup (Not Required)](#optional-setup-not-required)
+- [GitHub Version (Optional)](#github-version-optional)
+
+---
+
 ## What It Does
 
 - Loads and analyses results from 500 simulated games per matchup
@@ -51,4 +62,4 @@ If you'd like to rerun the notebook locally:
 ## GitHub Version (Optional)
 
 [View this folder on GitHub](https://github.com/Shelly855/connect4-evaluation)  
-> **Note:** This link is optional and not required for marking. The GitHub version may be updated after submission.
+> **Note:** This GitHub link is optional and not required for marking. The repository may be updated after submission.
