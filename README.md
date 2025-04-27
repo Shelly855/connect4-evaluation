@@ -12,7 +12,7 @@ It does **not run games or simulations itself** - it uses the results already sa
 - [What It Does](#what-it-does)
 - [Files](#files)
 - [Notes](#notes)
-- [Optional Setup (Not Required)](#optional-setup-not-required)
+- [Optional Setup](#optional-setup)
 - [GitHub Version (Optional)](#github-version-optional)
 
 ---
@@ -45,7 +45,7 @@ It does **not run games or simulations itself** - it uses the results already sa
 
 ---
 
-## Optional Setup (Not Required)
+## Optional Setup
 
 If you'd like to rerun the notebook locally:
 
