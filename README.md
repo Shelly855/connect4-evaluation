@@ -13,7 +13,6 @@ It does **not run games or simulations itself** - it uses the results already sa
 - [Files](#files)
 - [Notes](#notes)
 - [Optional Setup](#optional-setup)
-- [GitHub Version (Optional)](#github-version-optional)
 
 ---
 
